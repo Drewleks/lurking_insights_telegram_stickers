@@ -18,5 +18,5 @@
 - z — количество стикеров в релизе,
 - status — статус релиза.
 
-## Превью
-![lurking_insights_telegram_stickers_preview](/lurking_insights_telegram_stickers_preview.png)
+## Превью:
+![lurking_insights_telegram_stickers_preview](https://github.com/Drewleks/lurking_insights_telegram_stickers/blob/main/lurking_insights_telegram_stickers_preview.jpg)
