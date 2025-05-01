@@ -2,7 +2,7 @@
 ---
 Собрал стикеры, которые содержат аналитические и мои локальные мемы.
 Если у вас есть мем, которым можно дополнить стикер-пак, то пишите комментарий в файл, он ниже, или в личные сообщения в Телеграм.
-Не гарантирую, что опубликую, редакционной политики нет, есть только мое субъективное.
+Не гарантирую, что опубликую, так как никакой редакционной политики нет.
 
 ---
 ## Ссылки:
@@ -12,14 +12,14 @@
 
 ---
 ## Релизы и версионирование:
-**version_[x].[y].[z]_[status]**, где:
-- x — версия релиза,
-- y — правки и дополнения в листинге стикеров,
-- z — количество стикеров в релизе,
-- status — статус релиза.
+**version_[x].[y].[z]**, где:
+- x — версия дизайна,
+- y — номер правок и дополнений в листинге стикеров,
+- z — количество стикеров в релизе.
   
-**version_1.2.32_release**
+**version_2.1.41**
 
 ---
 ## Превью:
-![lurking_insights_telegram_stickers_preview](https://github.com/Drewleks/lurking_insights_telegram_stickers/blob/main/lurking_insights_telegram_stickers_preview.jpg)
+![lurking_insights_telegram_stickers_preview](https://github.com/Drewleks/lurking_insights_telegram_stickers/blob/main/preview_images/lurking_insights_telegram_stickers_preview_2200x1700_version_2.1.41.png)
+
